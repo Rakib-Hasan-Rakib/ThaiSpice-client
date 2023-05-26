@@ -1,0 +1,9 @@
+.banner-div {
+  background-image: linear-gradient(to left, #00000017, #000000d0),
+    url("../../../assets/images/Banner-one.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* background-attachment: fixed; */
+  height: 90vh;
+}
